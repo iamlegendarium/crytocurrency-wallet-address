@@ -17,6 +17,7 @@ How to Use
 1. Clone or download this repo
 
 git clone https://github.com/iamlegendarium/crytocurrency-wallet-address.git
+
 cd crytocurrency-wallet-address
 
 2. Install dependencies
